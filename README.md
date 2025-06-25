@@ -4,12 +4,12 @@ This repository contains my solutions to exercises from **_The C Programming Lan
 
 ---
 
-## 📘 About the Book
+## About the Book
 
 K&R is the definitive guide to the C programming language, written by the creators of the language itself. Despite its age, it's still widely respected for its concise, elegant explanations and hands-on exercises.
 
 ---
 
-## 🛠️ Structure
+## Structure
 
 Each chapter has its own folder with source files corresponding to that chapter’s exercises.
