@@ -1,0 +1,33 @@
+# Compiled binary files
+*.out
+*.o
+*.exe
+*.a
+*.so
+*.obj
+*.elf
+
+# Default GCC output
+a.out
+
+# Any executables (assuming you don't store them with an extension)
+chapter-*/ex*
+
+# Backup files
+*~
+
+# Editor swap/backup files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# MacOS metadata
+.DS_Store
+
+# VSCode settings (if you open with VSCode)
+.vscode/
+
+# Makefile output (optional)
+build/
+
